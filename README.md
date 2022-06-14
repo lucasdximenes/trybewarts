@@ -2,6 +2,8 @@
 
 Here you will find the trybewarts project, a page with a student registration form. Developed by [Lucas Ximenes](https://www.linkedin.com/in/lucasdximenes/).
 
+> [Live version](lucasdximenes.github.io/other/projects/project-trybewarts/)
+
 ![desktop page screenshot](./images/desktop_fs_screenshot.png)
 
 # Mandatory requirements

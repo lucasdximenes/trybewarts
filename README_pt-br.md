@@ -2,6 +2,8 @@
 
 Aqui você irá encontrar o projeto trybewarts, uma página com formulário de cadastro de alunos. Desenvolvido por [Lucas Ximenes](https://www.linkedin.com/in/lucasdximenes/).
 
+> [Live version](lucasdximenes.github.io/other/projects/project-trybewarts/)
+
 ![desktop page screenshot](./images/desktop_fs_screenshot.png)
 
 # Requisitos Obrigatórios
